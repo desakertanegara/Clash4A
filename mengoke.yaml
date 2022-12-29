@@ -61,7 +61,7 @@ proxies:
     ws-opts:
       path: "/websocket"
       headers:
-        Host: idt3.sshocean.ne
+        Host: idt3.sshocean.net
   - name: 3
     type: trojan
     server: sgt2.sshocean.net
